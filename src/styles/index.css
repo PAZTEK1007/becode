@@ -13,6 +13,16 @@ body {
   font-family: Verdana;
 }
 
+.btn {
+  background-color: hsl(183, 61%, 21%);
+  border-radius: 1rem;
+  border-color: hsl(183, 61%, 21%);
+}
+.btn:hover {
+  background-color: #fff;
+  color: hsl(183, 61%, 21%);
+  border-color: #fff;
+}
 .tel_title {
   text-align: center;
   font-family: Verdana;
