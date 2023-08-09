@@ -1,0 +1,132 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  justify-content: center;
+}
+
+.header_img {
+  width: 20%;
+  display: flex;
+}
+.header_img:hover {
+  background-color: #ffffff;
+}
+.email_title {
+  font-family: Verdana;
+}
+
+.tel_title {
+  text-align: center;
+  font-family: Verdana;
+}
+.tel {
+  text-align: center;
+}
+.email {
+  text-align: center;
+}
+.tel_logo {
+  width: 4%;
+  text-align: center;
+  margin: 1rem;
+}
+.email_logo {
+  width: 4%;
+  text-align: center; 
+  margin: 1rem;
+}
+
+.header_title {
+  font-family: Georgia;
+  font-size:x-large;
+  color: hsl(183, 61%, 21%);
+  border-bottom: 1rem;
+  text-align: center  ;
+}
+
+.navigation {
+  background-color: hsl(183, 61%, 21%);
+  padding: 1rem 1rem;
+  text-align: center;
+  border-bottom: 1rem;
+  justify-content: center;
+}
+.textmoi {
+  font-family: Verdana;
+  font-size: 14;
+  text-align: left;
+}
+.text5 {
+  font-family: Verdana;
+  font-size: 15;
+  text-align: left   ;
+}
+
+.text4 {
+  font-family: Verdana;
+  font-size: 15;
+  text-align: left   ;
+}
+
+.text3 {
+  font-family: Verdana;
+  font-size: 15;
+  text-align: left   ;
+}
+
+.text2 {
+  font-family: Verdana;
+  font-size: 15;
+  text-align: left   ;
+}
+
+.text1 {
+  font-family: Verdana;
+  font-size: 15;
+  text-align: left   ;
+}
+
+.textmotivation {
+  font-family: Verdana;
+  font-size: 15;
+  text-align: left;
+}
+.caption3 {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  margin: 0rem 1rem ;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  padding: 0rem 1rem  ;
+}
+
+a:hover {
+  background-color: #ebe9e9;
+  border-radius: 1em;
+  color: hsl(183, 61%, 21%);
+}
+
+
+main {
+  padding: 5rem;
+}
+
+.footer {
+  background-color: hsl(184, 63%, 16%);
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+}
