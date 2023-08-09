@@ -8,7 +8,7 @@ body {
   width: 20%;
   display: flex;
 }
-.header_img:hover {
+.imglink:hover {
   background-color: #ffffff;
 }
 .email_title {
@@ -114,7 +114,7 @@ a {
 }
 
 a:hover {
-  background-color: #ebe9e9;
+  background-color: #edebeb;
   border-radius: 1em;
   color: hsl(183, 61%, 21%);
 }
