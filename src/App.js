@@ -11,8 +11,8 @@ const App = () => {
     <Routes>
       <Route path="/becode" element={<Home />} />
       <Route path="*" element={<Home />} />
-      <Route path="/becode/about" element={<About />} />
-      <Route path="/becode/contact" element={<Contact />} />
+      <Route path="/about" element={<About />} />
+      <Route path="/contact" element={<Contact />} />
     </Routes>
     </BrowserRouter>
   );
