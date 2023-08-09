@@ -16,7 +16,7 @@ const Contact = () => {
         </div>
         <div className='tel'>
         <img className='tel_logo' src='https://img.freepik.com/free-icon/phone-call_318-388435.jpg' alt=''/>
-        <p className='tel_title'>0494/86.27.92</p>
+        <a className='tel_title' href="tel:+32494862792" class="btn btn-primary">0494/86 27 92</a>
         </div>
         <Footer />
         </div>
