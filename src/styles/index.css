@@ -1,7 +1,5 @@
 body {
   font-family: Arial, sans-serif;
-  text-align: center;
-  justify-content: center;
 }
 
 .header_img {
@@ -55,44 +53,23 @@ body {
   font-family: Verdana;
   font-size: 14;
   text-align: left;
+  margin: 3rem;
 }
 .text5 {
-  font-family: Verdana;
-  font-size: 15;
-  text-align: left   ;
-}
-
-.text4 {
-  font-family: Verdana;
-  font-size: 15;
-  text-align: left   ;
-}
-
-.text3 {
-  font-family: Verdana;
-  font-size: 15;
-  text-align: left   ;
-}
-
-.text2 {
-  font-family: Verdana;
-  font-size: 15;
-  text-align: left   ;
-}
-
-.text1 {
-  font-family: Verdana;
-  font-size: 15;
-  text-align: left   ;
+  text-align: center;
+  padding: 1rem;
 }
 
 .textmotivation {
   font-family: Verdana;
   font-size: 15;
   text-align: left;
+  margin: 3rem;
 }
+
 .caption3 {
   text-align: center;
+  padding: 1rem;
 }
 
 ul {

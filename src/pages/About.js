@@ -8,13 +8,13 @@ const About = () => {
         <div>
             <Header />
             <Navigation />
-            <main className='Textmoi'>
+            <div className='textmoi'>
             <p className='text1'>Je m’appelle Mathias Barbier,  j’ai 25 ans et j’éprouve depuis mon plus jeune âge un réel intérêt dans les nouvelles technologies en général mais plus précisément dans l’informatique et les jeux vidéo.</p>
             <p className='text2'>De nature créatif et aimant découvrir différentes façons d’améliorer les choses qui m’entourent, j’ai administré et developpé différents serveurs de jeux vidéo, ce qui m’a permis de découvrir ce qu’était le MySQL et d’apprendre aussi quelques notions de Python et de Java. </p>
             <p className='text3'>Appréciant l’art, l’ayant étudié et pratiqué (arts papier et numérique),j’aime que les pages et jeux que j’emploie soient agréables à regarder par leurs styles et par leurs illustrations c’est pour cela que je suscite un intérêt pour le développement en front end mais j’aime également la logique et les connaissances que le back end peut m’apporter.</p>
             <p className='text4'>J'ai créé ce site simplifié avec les connaissances que j’ai acquises en autodidacte avec react et html afin de vous exprimer mon réel intérêt. </p>
             <p className='text5'>Merci pour l’intérêt que vous avez porté à ma présentation.</p>
-            </main>
+            </div>
             <Footer />
         </div>
     );

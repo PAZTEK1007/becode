@@ -9,12 +9,12 @@ const Home = () => {
         <div>
             <Header />
             <Navigation />
-            <main className='textmotivation'>
+            <div className='textmotivation'>
             <p className='caption'>Actuellement à la recherche d'une opportunité de formation pour devenir Junior Developer, j'ai réalisé ce site web afin de vous adresser ma candidature pour intégrer votre programme de formation.</p>
             <p className='caption1'>Cependant, je suis conscient qu'il me reste encore beaucoup à apprendre pour devenir un développeur compétent et polyvalent , c’est pour cela que votre programme de formation de Junior Developer m'intéresse particulièrement en raison de sa réputation et de son approche pratique de l'apprentissage. Je suis convaincu que votre formation me permettra de combler mes lacunes et de développer les compétences nécessaires pour devenir un professionnel accompli dans le domaine du développement informatique.</p>
             <p className='caption2'>Intégrer votre formation en tant que Junior Developer représente pour moi une opportunité unique d'acquérir une expertise solide et de progresser dans ma carrière professionnelle. Je suis prêt à m'investir pleinement dans cette formation et à relever tous les défis qui se présenteront à moi.</p>
             <p className='caption3'>Je vous remercie vivement de considérer ma candidature. Je reste à votre disposition pour toute information complémentaire.</p>
-            </main>
+            </div>
             <Footer />
         </div>
     );
